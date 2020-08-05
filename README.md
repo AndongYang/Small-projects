@@ -1,2 +1,2 @@
 # Small-projects
-Some interesting small projects.
+Some small projects.
